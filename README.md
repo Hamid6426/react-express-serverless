@@ -1,8 +1,30 @@
-# React + Vite
+# React Express Serverless 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A custom template to set up a **React frontend** with **Vite** and a **serverless Express backend**.  
+This setup allows deploying the frontend and backend separately, making it cost-effective to host on **Vercel** or **Netlify** for free.
 
-Currently, two official plugins are available:
+## 📌 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🖥️ Frontend - React + Vite
+- **Vite** for super-fast development  
+- **HMR (Hot Module Replacement)** enabled  
+- **ESLint rules** for clean and consistent code  
+- **Optimized build** for performance  
+
+### 🌐 Backend - Express (Serverless)
+- **Express.js** as the backend framework  
+- **Serverless functions** setup for easy deployment  
+- **Works seamlessly with Vercel & Netlify**  
+- **CORS enabled** for frontend-backend communication  
+
+## 🛠️ Setup & Installation
+
+### 1️⃣ Clone the Repository
+```
+git clone https://github.com/hamid6426/react-express-serverless.git
+```
+
+```
+cd react-express-serverless
+```
+
